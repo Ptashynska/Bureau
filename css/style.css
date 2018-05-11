@@ -1108,7 +1108,7 @@ order: -1;
     background: url("../img/team-full.jpg") center;
     background-size: cover;
     background-repeat: no-repeat;
-    border: 2px solid red;
+
 }
     .team-designer{
         position: absolute;
