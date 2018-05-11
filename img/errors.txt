@@ -1,0 +1,3 @@
+[2018-03-26 18:48:33] layer "Every project is a clean slate with its own goals, challenges, ": Expected end of input but "," found.
+[2018-03-26 18:48:33] layer "Every project is a clean slate with its own goals, challenges, ": Expected end of input but "," found.
+[2018-03-26 18:48:33] layer "Every project is a clean slate with its own goals, challenges, ": Expected end of input but "," found.
